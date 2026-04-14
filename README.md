@@ -171,3 +171,4 @@ X-Y秒：[镜头] + [画面] + [动作] + [特效]
 ---
 
 **快速链接**：[查看完整指南 →](structured-prompt.md)
+# createStory
