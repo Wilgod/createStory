@@ -4,6 +4,30 @@
 山間河水流動聲 🌿💧 治愈自然音景，聽著聽著就放鬆了 | AI 生成影片 | Mountain River Flowing Sounds
 ```
 
+**影片簡介**
+
+```
+🌿 Deep in the mountains. Morning mist. A stream quietly winding through moss-covered stones——
+Clear your mind, close your eyes, and let the sound of flowing water wash all your stress away.
+
+This is a pure nature soundscape video — no narration, no music, just the real sounds of a mountain stream.
+Crystal-clear water rippling over rocks, distant birdsong drifting through the mist, a gentle breeze brushing the leaves——
+Perfect for reading, studying, working, meditating, or falling asleep.
+
+🎵 Sounds included:
+  • Mountain stream flowing (main channel)
+  • Distant morning birdsong (subtle, ambient)
+  • Soft breeze through leaves
+
+📌 Seamlessly loopable — no jarring cuts or transitions.
+
+🤖 AI-generated video by Seedance | 100% AI created
+
+---
+If this helped you relax, a like and subscribe means the world 💛
+New healing nature soundscapes every week — your peaceful escape from a busy day.
+```
+
 ## YouTube Hashtag
 
 ```
