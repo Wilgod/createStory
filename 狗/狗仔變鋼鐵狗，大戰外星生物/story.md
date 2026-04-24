@@ -124,11 +124,12 @@ Dramatic purple-green bioluminescent glow, no other characters visible, photorea
 
 ```
 Cinematic side-view tracking shot, post-apocalyptic city street at night.
-An anthropomorphic white Bichon Frise dog standing upright on two legs,
-wearing a grey hoodie and blue jeans, charges at full speed from the left side of the frame.
-Fluffy white fur blown back by wind, round dark eyes blazing with fierce determination,
-right fist pumping forward mid-sprint.
-In the background (right side, blurred), the alien creature stands awaiting.
+LEFT SIDE: anthropomorphic white Bichon Frise dog standing upright on two legs,
+wearing a grey hoodie and blue jeans, charging at full speed toward the RIGHT side of the frame —
+body fully leaning forward, eyes locked onto the alien target.
+RIGHT SIDE (background, blurred): the alien creature standing still, body turned to face LEFT toward the incoming dog,
+red compound eyes all oriented directly toward the charging dog.
+Both characters' bodies and gazes directed toward each other along the same horizontal axis.
 Dramatic motion blur on the dog, cinematic lighting, photorealistic, 9:16.
 ```
 
@@ -138,11 +139,14 @@ Dramatic motion blur on the dog, cinematic lighting, photorealistic, 9:16.
 
 ```
 Cinematic side-view fixed shot, post-apocalyptic city street at night.
-Left side: anthropomorphic white Bichon Frise dog in grey hoodie and blue jeans,
-standing upright in a battle stance, fists clenched, glaring at the enemy.
-Right side: tall semi-transparent alien creature with multiple glowing tentacles spread wide,
-red compound eyes fixed on the dog.
-Both characters facing each other in tense standoff.
+LEFT SIDE: anthropomorphic white Bichon Frise dog in grey hoodie and blue jeans,
+standing upright in battle stance, fists clenched — body fully turned RIGHT toward the alien,
+eyes staring directly into the alien's compound eyes, chin pointed toward the enemy.
+RIGHT SIDE: tall semi-transparent alien creature — body fully turned LEFT toward the dog,
+all tentacles fanning outward but tips all angled toward the dog,
+every red compound eye oriented and focused directly onto the dog's face.
+Both characters' chests, shoulders, and gazes aimed directly at each other on the same horizontal axis.
+Zero gap in their mutual attention — a locked, unbroken confrontation.
 Dramatic atmospheric lighting with purple-green alien glow on right, photorealistic, 9:16.
 ```
 
@@ -152,10 +156,14 @@ Dramatic atmospheric lighting with purple-green alien glow on right, photorealis
 
 ```
 Cinematic slow-motion side shot, post-apocalyptic city street at night.
-Left side: anthropomorphic white Bichon Frise dog in grey hoodie leaping forward,
-right fist extended in a powerful punch, white fur compressed by impact force,
-making contact with the alien creature's semi-transparent torso — purple ripple waves spreading outward.
-Right side: alien creature recoiling slightly, one tentacle sweeping horizontally toward the dog.
+LEFT SIDE: anthropomorphic white Bichon Frise dog in grey hoodie leaping toward the RIGHT,
+right fist fully extended and making direct contact with the alien creature's torso —
+the dog's entire body momentum driving rightward into the alien, eyes locked on the impact point.
+RIGHT SIDE: alien creature's body turned LEFT to face the dog — torso recoiling from the punch impact,
+purple ripple shockwaves radiating outward from the contact point on its semi-transparent body.
+Simultaneously, one tentacle sweeps horizontally from RIGHT to LEFT toward the dog.
+Point of contact between fist and alien torso is the exact center of the frame.
+Both characters fully engaged toward each other — no separation, direct physical collision.
 Dynamic motion blur, energy impact visual effect at point of contact, photorealistic, 9:16.
 ```
 
@@ -165,12 +173,14 @@ Dynamic motion blur, energy impact visual effect at point of contact, photoreali
 
 ```
 Cinematic mid-shot, post-apocalyptic city street at night.
-Left side: anthropomorphic white Bichon Frise dog in grey hoodie dangling in mid-air,
-both arms wrapped tightly by thick alien tentacles, feet off the ground,
-grey hoodie torn at the shoulders, white fur disheveled, face grimacing in pain —
-but round dark eyes still glaring with defiance at the alien.
-Right side: tall semi-transparent alien creature lifting the dog with tentacles,
-red compound eyes studying its captive, more tentacles coiling.
+RIGHT SIDE: tall semi-transparent alien creature standing upright, body turned LEFT to face the dog —
+tentacles extending directly LEFTWARD, wrapping tightly around the dog's arms,
+all red compound eyes oriented leftward, staring directly down at the captive dog's face.
+LEFT-CENTER: anthropomorphic white Bichon Frise dog suspended in mid-air —
+both arms stretched rightward toward the alien by the tentacles,
+body facing RIGHT toward the alien, round dark eyes glaring directly at the alien's compound eyes.
+The tentacles form a physical bridge connecting both characters toward each other.
+Both faces oriented directly at each other — unbroken eye contact maintained despite the pain.
 Dramatic low-angle cinematic lighting, photorealistic, 9:16.
 ```
 
@@ -183,9 +193,15 @@ Cinematic extreme close-up, post-apocalyptic setting.
 The tip of a thick alien tentacle fills most of the frame,
 purple-green energy swirling and concentrating into a blinding orb of light —
 the energy cannon charging to full power.
+From the glowing orb, intense beams of purple-green energy radiate outward
+in a directional cone, aimed precisely toward the anthropomorphic white Bichon Frise dog —
+the energy streams converge into a focused lock-on trajectory pointing directly at the dog's chest.
+The purple-green light casts a harsh, sickly glow across the dog's white fur,
+illuminating the dog's face and body with the color of the incoming death beam.
 In the background (blurred and small), the anthropomorphic white Bichon Frise dog
-is suspended helplessly, looking directly at the glowing cannon tip.
-Tension, foreboding, dramatic backlighting, photorealistic, 9:16.
+is suspended helplessly by tentacles, staring directly into the glowing cannon tip,
+white fur bathed entirely in purple-green light, eyes wide with fear but unbroken.
+Tension, foreboding, dramatic directional backlighting, photorealistic, 9:16.
 ```
 
 ---
@@ -194,12 +210,16 @@ Tension, foreboding, dramatic backlighting, photorealistic, 9:16.
 
 ```
 Cinematic wide side-shot, post-apocalyptic city street at night.
-A massive purple-green energy beam fires from the alien tentacle tip,
-striking the white Bichon Frise dog square in the chest —
-the impact detonates in a blinding explosion of light, blasting the dog backward through the air.
-The grey hoodie's chest is blown open, white fur scorched and flying in all directions.
-The shockwave shatters nearby windows and blasts debris outward.
-Alien creature standing firm on the right, dramatic energy explosion visual, photorealistic, 9:16.
+RIGHT SIDE: alien creature standing firm, body turned LEFT — one tentacle fully extended
+pointing directly LEFTWARD, firing a massive purple-green energy beam from its tip
+toward the dog. The tentacle tip and cannon beam aimed precisely at the dog's chest.
+LEFT SIDE: the white Bichon Frise dog — body facing RIGHT toward the alien —
+taking the energy beam square in the chest, the impact detonating in a blinding explosion,
+blasting the dog's body violently to the LEFT and backward through the air.
+The energy beam travels visibly from RIGHT (alien) to LEFT (dog) across the frame.
+The grey hoodie's chest is blown open, white fur scorched, debris flying leftward from the impact.
+A clear energy line connects alien tentacle → beam → dog chest as the causal chain.
+Dramatic energy explosion visual, photorealistic, 9:16.
 ```
 
 ---
@@ -215,7 +235,6 @@ grey hoodie with a large blast hole on the chest, white fur dusty and singed,
 limbs completely limp and spread, face turned upward showing pain and exhaustion,
 eyes barely open, a single tear visible at the corner of one eye.
 Purple-green alien energy light floods in from off-screen above.
-Subtitle fades in: 「未完——集二，鋼鐵覺醒」
 Dramatic cinematic lighting, photorealistic, 9:16.
 ```
 
@@ -235,169 +254,244 @@ Dramatic cinematic lighting, photorealistic, 9:16.
 > 以下每段提示詞對應九宮格分段圖一格，請將對應靜態圖上傳作為參考圖（Reference Image），圖中數字標記勿保留至最終輸出。
 
 ---
-以下每段提示詞對應九宮格分段圖一格，請將對應靜態圖上傳作為參考圖@07b69fa3-cce1-4c1a-bd37-e9fe1c9126b6，圖中數字標記勿保留至最終輸出。
-
-
 
 # 第1格 — 外星艦隊降臨
 
-【風格】末日科幻寫實，電影感，高反差光影
-【時長】3秒       
-【參考圖】第1格靜態圖（移除數字標記）
+【風格】末日科幻寫實，電影感，極深暗調紫黑色主色，高反差光影
+【時長】3秒
+【參考圖】第1段第1格靜態圖（移除數字標記）
 
-【鏡頭】超廣角仰拍，從地面向天空緩慢推進
+【鏡頭】超廣角仰拍（焦距16mm等效），從龜裂地面水坑倒影緩慢向上推進至天空（Tilt Up + Slow Push In），拍攝全程保持輕微手持震動感
 
-【主體】巨型外星UFO艦隊從烏雲中緩緩降臨，艦底放射紫綠色能量光束，轟炸整座城市
+【主體】漆黑暴風雲層中，3至5艘巨型外星飛碟艦體隱約可見——艦體設計有機流線型、邊緣發出脈衝式紫色能量光；艦底向地面投射數道聚焦紫綠色能量光柱，打在廢墟城市街道地面，城市建築物剪影映在紫綠色天光中
 
-【動作】UFO艦隊持續下降，光束震盪掃射，建築物玻璃震碎飛散，地面出現裂縫
+【動作】艦隊整體緩慢下壓降低海拔，能量光柱持續震盪旋轉；地面水坑因震動泛起漣漪，附近廢棄建築玻璃從高處震碎脫落，碎片在紫光中折射閃爍；背景城市天際線上輪廓逐漸被艦體遮蔽
 
-【氛圍】壓迫感、末日恐懼、冷峻神秘
+【色彩】整體深紫色 + 烏黑調為主，能量光柱為鮮亮紫綠色，地面倒影帶紫色水光反射
 
-【聲音】低沉機械轟鳴聲由遠至近，玻璃破碎聲，地面震動低頻共鳴，外星艦隊電子嗡鳴音
+【氛圍】末日降臨、宇宙級壓迫感、人類文明渺小
 
+【聲音】
+- 主聲：超低頻機械轟鳴聲（20-60Hz），由遠至近逐漸充滿整個聲場
+- 次聲：外星艦隊引擎的電子脈衝嗡鳴，不規律週期性爆鳴
+- 環境音：高處玻璃震落碎裂聲，地面龜裂延伸的嘶嘶聲
+- 尾聲：整座城市金屬建築共振的低頻顫動
 
+---
 
 # 第2格 — 外星生物落地
 
-【風格】末日科幻寫實，電影感，紫綠生物光效
-【時長】3秒  
-【參考圖】第2格靜態圖（移除數字標記）
+【風格】末日科幻寫實，生物恐懼美學，紫綠螢光生物光效，電影感
+【時長】3秒
+【參考圖】第1段第2格靜態圖（移除數字標記）
 
-【鏡頭】正面中景固定鏡頭，輕微下搖
+【鏡頭】正面中景至中遠景固定鏡頭（略仰角），外星生物從畫面上方進入畫面並落地；落地衝擊瞬間鏡頭輕微震動一次，之後靜止（Slight Camera Shake on Impact）
 
-【主體】高大半透明外星生物從紫綠能量光柱中落地，雙腳砸穿龜裂地面，觸手向外展開
+【主體】高大半透明外星生物——軀體如深海水母，半透明紫黑色，內部流動著紫綠螢光液體；多條長觸手從軀幹四面延伸，每條觸手末端有密集螢光紫綠能量點；頭部佈滿十數個暗紅色複眼，無口鼻，冷漠無情；身高約3至4米，遠遠高於城市廢墟背景
 
-【動作】落地衝擊波向外擴散，龜裂地面震碎，觸手尖端能量點亮，紅色複眼逐一張開掃視環境
+【動作】外星生物從畫面頂部沿紫綠能量光柱向下降落，雙腳接觸龜裂地面的瞬間——地面在接觸點向外爆裂震碎，衝擊波推散地面灰塵碎石；落地後觸手緩慢向四方舒展開來，逐一亮起螢光能量點；多個紅色複眼從閉合到逐一張開，最後全部複眼同時鎖定前方（鏡頭方向）
 
-【氛圍】威脅、壓迫、生物恐懼
+【色彩】外星生物以深紫黑半透明為主體，螢光紫綠為能量點，暗紅色複眼；地面灰黑，背景城市廢墟深灰剪影
 
-【聲音】重物落地震擊聲，地面裂開聲，外星觸手舒展的液態音效，低頻外星語音（無規律）
+【氛圍】生物性恐懼、異形壓迫、未知威脅降臨
 
+【聲音】
+- 落地衝擊：重物擊地的深沉悶響 + 地面龜裂延伸聲
+- 觸手展開：液態肌肉拉伸的濕潤滑動聲，帶輕微電流嗡鳴
+- 複眼開啟：細微機械式撥動聲，一個接一個
+- 底噪：持續低頻外星語音（不規律節奏，非人聲）
 
+---
 
 # 第3格 — 狗仔全速衝鋒
 
-【風格】末日科幻寫實，動感運動鏡頭，電影感
-【時長】3秒  
-【參考圖】第3格靜態圖（移除數字標記）
+【風格】末日科幻寫實，動感運動鏡頭，電影感，速度感優先
+【時長】3秒
+【參考圖】第1段第3格靜態圖（移除數字標記）
 
-【鏡頭】側面追蹤移動鏡頭，輕微手持晃動感
+【鏡頭】側面追蹤移動鏡頭（Tracking Shot），鏡頭與狗仔同速向右移動；輕微手持晃動感模擬戰地攝影機；背景（廢墟建築）帶明顯運動模糊
 
-【主體】白色比熊犬（擬人站立）穿灰色連帽衫、牛仔褲，從畫面左側全速衝向右側外星生物
+【主體】白色蓬鬆比熊犬（擬人站立，兩腳直立），穿深灰色連帽衫（帽沿因速度向後翻起）、深藍色牛仔褲、白色球鞋；體型矮壯圓潤，圓眼睛因憤怒與決心而瞇起，牙關緊咬；整體與背景廢墟環境形成強烈對比——純白毛髮在深紫黑色廢墟中格外顯眼
 
-【動作】狗仔右拳向前伸出，白毛被風吹後飄，腳步踏地有衝擊火花，背景外星生物靜待
+【動作】狗仔從畫面左側以全速向右衝刺——右拳超前探出，左臂向後用力擺動；雙腳大步踏地，每步踏下有碎石飛濺和細微火花；白色毛髮因衝刺氣流全部向後飄動；右側畫面背景（模糊）可見外星生物的大型身影靜待；狗仔全程眼神鎖定正右方外星生物
 
-【氛圍】熱血、無畏、速度感
+【色彩】狗仔白色毛髮為畫面亮點；被外星生物紫綠光從右側照亮，白毛左側留陰影、右側帶紫綠色邊緣光
 
-【聲音】急速奔跑腳步聲、風聲切割音、緊張弦樂加速、遠處外星生物低鳴
+【氛圍】無畏衝鋒、熱血、速度壓迫感
 
+【聲音】
+- 主聲：急促奔跑腳步聲，帶碎石擊地聲
+- 次聲：衝刺風切聲漸強
+- 配樂：緊張弦樂短促加速段，節拍與腳步同步
+- 遠景：外星生物低沉嗡鳴隱約從右方傳來
 
+---
 
 # 第4格 — 雙方正面對峙
 
-【風格】末日科幻寫實，對峙張力構圖，電影感
+【風格】末日科幻寫實，對峙張力構圖，電影感，色彩對抗（白 vs 紫黑）
 【時長】3秒
-【參考圖】第4格靜態圖（移除數字標記）
+【參考圖】第1段第4格靜態圖（移除數字標記）
 
-【鏡頭】側面固定鏡頭，左右對稱構圖，緩慢推近
+【鏡頭】側面固定鏡頭（左右均等構圖），焦距50mm等效；開始時鏡頭輕微緩慢推近（Slow Push In，3秒內推近約10%），製造窒息性緊張感；景深較淺，兩個主體均在焦距內清晰
 
-【主體】左：狗仔（擬人站立，灰色連帽衫），右：外星生物（觸手展開，紅眼凝視），雙方對峙
+【主體】
+- 左：狗仔（白色比熊犬，灰色連帽衫，牛仔褲），擬人站立，全身肌肉繃緊，雙拳握緊置於身體兩側，圓眼直視右側外星生物，身體重心前傾，腳踩龜裂地面
+- 右：外星生物，半透明紫黑色軀體，體型是狗仔的三倍高，觸手向左右展開但末端向內彎曲指向狗仔，所有紅色複眼全部集中凝視左側狗仔
+- 兩者之間：地面龜裂延伸，空氣中有紫色能量粒子漂浮
 
-【動作】雙方均靜止對望，狗仔拳頭緩慢握緊，外星觸手小幅震顫，能量光點閃爍
+【動作】雙方均靜止對望——狗仔雙拳緩慢從放開到握緊，外星觸手末端能量光點緩慢從暗到亮閃爍；外星生物軀體輕微起伏（呼吸感）；兩者間的地面裂縫緩慢延伸擴大；空氣中能量粒子緩慢旋轉漂移
 
-【氛圍】決戰前的緊繃靜默、暴風雨前的寧靜
+【色彩】畫面左側（狗仔）：白色毛髮帶紫色邊緣光；畫面右側（外星生物）：紫黑色帶螢光緣；整體畫面極暗，雙方各自發出的光成為主要光源
 
-【聲音】靜默底噪，心跳聲漸強，外星生物觸手輕微顫動電流聲，遠處廢墟碎石滾落聲
+【氛圍】決戰前的窒息靜默、暴風雨前夕、互相評估與恐懼
 
+【聲音】
+- 主聲：幾乎完全靜寂的底噪
+- 漸強：心跳聲緩慢由弱到清晰（代入狗仔主觀感受）
+- 環境：外星生物觸手輕微電流顫動聲，遠處廢墟碎石偶發滾落聲
+- 尾聲：一聲深沉的外星生物低鳴，之後靜寂
 
+---
 
-# 第5格 — 出拳對決觸手橫掃
+# 第5格 — 出拳對決，觸手橫掃
 
-【風格】末日科幻寫實，慢動作衝擊特效，電影感
+【風格】末日科幻寫實，慢動作衝擊特效，電影感，動態極強
 【時長】3秒
-【參考圖】第5格靜態圖（移除數字標記）
+【參考圖】第1段第5格靜態圖（移除數字標記）
 
-【鏡頭】慢動作側面固定鏡頭，衝擊瞬間畫面輕微震動
+【鏡頭】慢動作側面固定鏡頭（240fps降格至24fps效果）；拳擊接觸點爆炸瞬間鏡頭強烈震動一幀（Camera Shake），之後繼續慢動作
 
-【主體】狗仔右拳重擊外星生物軀體，觸手橫掃向狗仔右側，雙方激烈交鋒
+【主體】
+- 左（狗仔）：右拳全力從左向右延伸，拳頭接觸外星生物半透明軀體；整個身體向右傾斜發力，腳踩地面有爆炸碎裂感；眼睛緊盯接觸點
+- 右（外星生物）：軀體在拳擊接觸點向右扭曲凹陷，紫色漣漪衝擊波從接觸點向外環形擴散；同時一條觸手從右向左橫掃，觸手末端螢光能量拖尾
 
-【動作】拳擊接觸點爆出紫色漣漪衝擊波，觸手橫掃帶起氣流，兩者均受力後退微晃
+【動作】
+- 拳擊接觸點：大型紫色能量漣漪向外擴散（類似水波），接觸點有白色閃光爆炸
+- 外星生物：軀體受力右旋，多條觸手因衝擊向右甩動，但一條觸手反向從右向左橫掃
+- 地面：拳擊衝擊波傳地，龜裂地面向外爆裂
+- 狗仔白毛：因快速發力全部向後壓縮
 
-【氛圍】激烈、燃燒、勢均力敵
+【色彩】接觸點：白色閃光 + 紫色漣漪；外星生物螢光綠色觸手拖尾；狗仔純白拳頭
 
-【聲音】拳擊重擊悶響，能量衝擊爆裂聲，觸手破空揮動音，熱血打鬥配樂高潮段
+【氛圍】爆炸性衝擊、你來我往、勢均力敵的激鬥
 
+【聲音】
+- 拳擊接觸：深沉悶響 + 能量衝擊爆裂電流聲（非乾燥拳擊聲，帶能量感）
+- 觸手橫掃：空氣劈開的尖銳切風聲 + 能量尾跡嗡嗡聲
+- 衝擊波：低頻震爆聲向外擴散
+- 配樂：熱血打鬥配樂在此格達到第一個小高潮
 
+---
 
-# 第6格 — 觸手懸空拎起狗仔
+# 第6格 — 觸手纏繞，懸空拎起
 
-【風格】末日科幻寫實，低角度強迫透視，電影感
+【風格】末日科幻寫實，低角度強迫透視，窒息壓迫構圖，電影感
 【時長】3秒
-【參考圖】第6格靜態圖（移除數字標記）
+【參考圖】第1段第6格靜態圖（移除數字標記）
 
-【鏡頭】低角度仰視鏡頭，緩慢上搖
+【鏡頭】低角度仰視鏡頭（Low Angle），從地面水坑反射高度仰視；緩慢上搖（Slow Tilt Up）跟隨被拎起的狗仔升高；外星生物在畫面上方俯視，強化壓迫構圖
 
-【主體】外星觸手纏繞狗仔雙臂，將其懸空拎起，狗仔連帽衫肩膀撕裂，仍瞪眼死撐
+【主體】
+- 上方（外星生物）：巨大身形在畫面上方，2至3條觸手從右方延伸向左下方纏繞住狗仔雙臂；所有紅色複眼向下凝視被捕獲的狗仔；觸手緊繃有力，表面螢光能量隨纏繞動作流動
+- 下方（狗仔）：被觸手懸空拎起，雙臂被纏繞向上伸展；連帽衫肩膀縫線撕裂開口，袖子被拉扯變形；雙腳離地在空中掙扎踢動；面部朝向右側外星生物，圓眼直視外星生物，眼中有痛苦但絕不屈服
 
-【動作】狗仔雙腳在空中掙扎踢動，觸手持續收緊纏繞，外星生物紅眼俯視觀察
+【動作】狗仔雙腳在空中做無規律掙扎踢動，連帽衫面料因拉扯持續撕裂發出纖維斷裂聲；觸手持續收緊螺旋纏繞，表面螢光能量因施力加強而閃爍更亮；外星生物臉部複眼逐一向下轉動定焦
 
-【氛圍】危機、壓迫、倔強不屈
+【色彩】觸手螢光紫綠色在白色比熊犬毛髮上投下螢光倒影；背景廢墟為深紫黑色
 
-【聲音】觸手纏繞緊繃的滑動聲，狗仔掙扎的悶哼聲，衣物撕裂聲，外星生物低沉嗡鳴
+【氛圍】被捕、危機、倔強不屈、以小博大的悲壯感
 
+【聲音】
+- 觸手：緊繃橡皮質感的拉伸聲 + 螢光電流嗡鳴
+- 衣物：纖維撕裂聲，斷續多次
+- 狗仔：壓抑的悶哼聲，努力忍住痛苦
+- 外星生物：低沉規律嗡鳴，帶霸主感
 
+---
 
 # 第7格 — 能量炮蓄力特寫
 
-【風格】末日科幻寫實，極致特寫張力，電影感
+【風格】末日科幻寫實，極致特寫恐懼美學，螢光綠色能量球為主視覺，電影感
 【時長】3秒
-【參考圖】第7格靜態圖（移除數字標記）
+【參考圖】第1段第7格靜態圖（移除數字標記）
 
-【鏡頭】極度特寫固定鏡頭，輕微推近
+【鏡頭】極度特寫固定鏡頭（Extreme Close-Up），外星觸手尖端能量球佔據畫面左下方60%；輕微緩慢推近（Creeping Push In），製造死亡逼近感；淺景深，能量球清晰，後景狗仔虛化但可辨
 
-【主體】外星觸手尖端佔據畫面大部分，紫綠能量旋渦急速匯聚成耀眼光球（能量炮蓄力）
+【主體】
+- 前景：外星觸手末端——觸手尖端約5至10厘米的段落充滿整個前景，表面螢光紫綠色能量從觸手整體向末端匯聚；末端已形成一個高度集中的圓形能量光球，顏色為強烈螢光綠色帶紫色外緣，球體內部有旋轉能量渦流，亮度已足以在整個場景投下強烈陰影
+- 後景（虛化）：小型但清晰可辨的白色比熊犬狗仔，被觸手懸空，面朝能量球方向，圓眼直視炮口，臉部和白毛被能量球的螢光綠色強光照亮，投下綠色螢光色調
 
-【動作】能量光球持續擴大增亮，周圍空氣扭曲波動，遠景狗仔懸空無助直視炮口
+【動作】能量球從蓄力中繼續膨脹增大，球體直徑在3秒內擴大約30%；球體外緣持續旋轉加速；球體強光照射使周圍空氣出現輕微折射扭曲（Heat Haze效果）；後景狗仔身體因懸掛而輕微搖晃，但眼睛始終直視能量球
 
-【氛圍】死亡逼近、絕望、窒息性張力
+【色彩】能量球：高飽和螢光綠 + 紫色外緣光暈；整個場景被螢光綠色強光主導；後景狗仔白毛帶螢光綠色反射
 
-【聲音】能量蓄力高頻嗡嗡聲持續升高，電流集中聲，狗仔急促喘息聲，寂靜前的壓迫
+【氛圍】死亡倒計時、窒息性恐懼、最後一刻的對視
 
+【聲音】
+- 主聲：持續升高的高頻蓄力嗡鳴聲（Charge-Up Sound），音調從低到高持續上升
+- 次聲：能量旋轉的電流急速聲，越來越快
+- 環境：所有其他聲音漸漸消失，只剩蓄力音
+- 狗仔：急促的喘息聲，帶輕微顫抖
+- 結尾：蓄力聲在3秒末達到最高點，戛然而止（準備爆發）
 
+---
 
-# 第8格 — 能量炮轟中狗仔
+# 第8格 — 能量炮轟中，狗仔飛退
 
-【風格】末日科幻寫實，爆炸衝擊特效，電影感
+【風格】末日科幻寫實，大型爆炸衝擊特效，電影感，高衝擊視覺
 【時長】3秒
-【參考圖】第8格靜態圖（移除數字標記）
+【參考圖】第1段第8格靜態圖（移除數字標記）
 
-【鏡頭】廣角側面鏡頭，衝擊瞬間強烈畫面震動
+【鏡頭】廣角側面固定鏡頭；能量炮發射瞬間（第0.1秒）強烈畫面震動3至4幀（Hard Camera Shake）；之後轉為慢動作追蹤狗仔飛出軌跡
 
-【主體】紫綠能量炮束轟中狗仔胸口，巨大爆炸光球炸開，狗仔被衝擊波向後轟飛
+【主體】
+- 右側（外星生物）：觸手末端能量炮爆發，發射一道從右向左的巨型螢光綠色能量束，束寬幾乎與狗仔胸口等寬；外星生物身體因反衝輕微向右晃動
+- 左側（狗仔）：能量束命中狗仔胸口正中——接觸點爆出一個直徑超過狗仔身體的白色爆炸光球；爆炸衝擊波將狗仔整個身體向左方強力拋飛，連帽衫胸口被完全炸穿，布料炭化碎裂四散；白色毛髮被衝擊波燒焦，部分毛髮在空中燃燒；雙臂被衝擊力向後甩開
 
-【動作】狗仔身體被爆炸衝擊波彈射飛出，連帽衫胸口炸穿，白毛焦黑，碎屑四散，周圍玻璃全炸碎
+【動作】
+- 0.0-0.1秒：能量束發射，白色閃光佔滿畫面
+- 0.1-1.5秒：狗仔被爆炸彈射向左，身體在空中翻滾；爆炸碎片（布料、碎石、玻璃）向四方飛散；衝擊波的環形震波向外擴散，震碎周圍所有廢墟玻璃
+- 1.5-3.0秒：狗仔繼續在空中飛行，身後拖出白毛焦黑碎片尾跡；外星生物在右側站立不動，複眼追蹤狗仔飛出方向
 
-【氛圍】震撼、殘酷、高潮衝擊
+【色彩】爆炸中心：純白色過曝閃光；衝擊波：螢光綠色 + 紫色；狗仔白毛邊緣：焦黑炭化
 
-【聲音】能量炮轟擊爆炸巨響，衝擊波低頻震爆聲，玻璃破碎聲，狗仔飛出的風切聲
+【氛圍】震撼衝擊、殘酷、毀滅性打擊
 
+【聲音】
+- 爆炸瞬間：宇宙級巨響（深沉爆炸聲 + 高頻能量爆裂聲疊加），音量峰值
+- 衝擊波：低頻震爆聲向外滾動
+- 玻璃：大量玻璃同時爆碎聲
+- 狗仔飛出：切風聲 + 布料燃燒聲
+- 尾聲：餘震低頻嗡嗡聲
 
+---
 
 # 第9格 — 狗仔重傷趴地
 
-【風格】末日科幻寫實，低角度情感特寫，電影感
+【風格】末日科幻寫實，低角度情感特寫，悲壯結尾美學，電影感
 【時長】3秒
-【參考圖】第9格靜態圖（移除數字標記）
+【參考圖】第1段第9格靜態圖（移除數字標記）
 
-【鏡頭】低角度固定鏡頭，緩慢推近面部
+【鏡頭】低角度固定鏡頭（幾乎貼地），面對狗仔倒下的臉部方向；極緩慢推近面部（Extremely Slow Push In），3秒內焦點從全身推近至面部特寫；景深淺，狗仔面部逐漸更清晰
 
-【主體】狗仔撞牆滑落，重傷趴在龜裂地面，胸口有炸穿大洞，全身癱軟，眼角一滴淚
+【主體】白色比熊犬狗仔——背靠龜裂磚牆，沿牆壁緩慢下滑趴倒地面；連帽衫胸口有巨大炸穿破洞，邊緣炭化焦黑；白色毛髮多處燒焦，帶灰塵與碎石碎屑；四肢完全癱軟，無力延伸在地；頭部最終側靠在地面，面朝鏡頭方向；圓眼眼皮沉重半閉，眼球仍微弱轉動；右眼角有一滴晶瑩眼淚緩慢滑落——眼淚在螢光紫綠色外星光照射下反射出彩虹折射光
 
-【動作】狗仔身體緩慢下滑至完全趴地，微弱胸口起伏，眼皮半閉，字幕淡入「未完——集二，鋼鐵覺醒」
+【動作】
+- 0-1秒：狗仔背靠牆壁緩慢下滑，手指沿牆面滑落留下划痕
+- 1-2秒：完全趴倒地面，胸口有極微弱起伏（呼吸存在但極其微弱）
+- 2-3秒：眼皮最後一次微微抬起，眼神極度疲憊但仍有一絲光芒；一滴眼淚從右眼角滑落至地面，在龜裂地面上形成一個小水坑；紫綠色外星光從畫面右上方打入，強調眼淚的存在；鏡頭最終停在狗仔面部特寫
 
-【氛圍】悲壯、心碎、英雄落幕感
+【色彩】畫面整體極暗——黑色、深灰、磚紅廢墟色調；右上方外星螢光紫綠光斜射入畫面；狗仔眼淚在逆光中折射彩虹光
 
-【聲音】靜寂底噪，微弱心跳聲，外星紫綠光電磁聲從遠處傳來，悲壯弦樂輕輕淡入，字幕出現時音樂漸強
+【氛圍】悲壯、心碎、英雄落幕、未盡的意志力
+
+【聲音】
+- 主聲：幾乎完全靜寂，只有極輕的環境底噪
+- 微弱：狗仔極輕的喘息聲（只有仔細聆聽才能聽到）
+- 心跳：極緩慢、極微弱的心跳聲，隨時可能停止
+- 遠景：外星紫綠光的電磁嗡鳴從遠處傳來，提醒威脅仍在
+- 配樂：悲壯弦樂（大提琴獨奏）在靜寂中極輕地淡入，音量極小，隨眼淚滑落略微加強，然後再次靜寂
 ```
 
 ---
@@ -424,11 +518,16 @@ Dramatic cinematic lighting, photorealistic, 9:16.
 
 ```
 Cinematic low-angle upward shot, post-apocalyptic city street at night.
-Foreground: anthropomorphic white Bichon Frise dog lying completely flat on the cracked pavement,
+BOTTOM CENTER: anthropomorphic white Bichon Frise dog lying flat on the cracked pavement,
 grey hoodie with a large blast hole on the chest, white fur dusty and singed,
-limbs limp, eyes closed, barely breathing.
-Looming above: the tall semi-transparent alien creature standing over the dog,
-multiple tentacles raised and charged with purple-green energy, preparing a finishing blow.
+limbs limp, face turned UPWARD looking directly up at the alien towering above.
+DIRECTLY ABOVE (looming downward): the tall semi-transparent alien creature positioned
+directly over the dog — body oriented straight DOWNWARD toward the dog,
+all tentacles raised and angled inward pointing DOWN toward the dog below,
+all red compound eyes looking straight DOWN at the dog's face.
+The alien is positioned directly above the dog — not offset to the side —
+creating a direct vertical confrontation axis between the two characters.
+Purple-green energy from tentacle tips all aimed downward toward the dog's body.
 Oppressive and overwhelming composition, dramatic purple-green light from above, photorealistic, 9:16.
 ```
 
@@ -465,12 +564,15 @@ Dynamic visual of technology propagating through a body, dramatic blue lighting,
 
 ```
 Cinematic side-view fixed shot, post-apocalyptic city street at night.
-The anthropomorphic white Bichon Frise dog is pushing itself up to kneeling position.
-From the feet upward, silver-grey metallic nano-armor plates have fully formed on both feet and legs,
-snapping into place with geometric precision.
-The waist and lower torso armor is mid-assembly — plates sliding into position from both sides.
-Blue energy pulses run along each armor seam as it locks.
-The alien creature watches cautiously in the background (right, slightly blurred), photorealistic, 9:16.
+LEFT-CENTER: the anthropomorphic white Bichon Frise dog pushing itself up to kneeling position,
+body facing RIGHT toward the alien — head turned rightward, eyes open and locking onto the alien.
+Silver-grey metallic nano-armor plates forming from feet upward, blue energy pulsing along seams.
+RIGHT SIDE (background, slightly blurred): the alien creature standing with body turned LEFT toward the dog —
+all red compound eyes oriented leftward, watching the dog's transformation with visible caution,
+tentacles partially retracted but still angled toward the dog.
+Both characters' gazes directed toward each other across the frame.
+The dog is transforming while maintaining visual contact with the alien — mutual awareness.
+Blue energy pulses run along each armor seam as it locks, photorealistic, 9:16.
 ```
 
 ---
@@ -508,13 +610,16 @@ Dramatic blue-white energy light, cinematic detail shot, photorealistic, 9:16.
 
 ```
 Cinematic low-angle upward wide shot, post-apocalyptic city street at night.
-Center frame: the fully armored Iron Dog stands upright in complete silver-grey nano-armor,
-hexagonal blue energy core glowing on chest, mechanical steel claws hanging at sides,
-blue-white energy light blazing from eye visors.
-The ground cracks slightly beneath the armor's weight.
-Right side: the tall semi-transparent alien creature takes an involuntary step backward,
-tentacles retracting instinctively, red compound eyes flickering with uncertainty.
-Dramatic confrontation composition, blue glow vs purple-green glow, photorealistic, 9:16.
+LEFT-CENTER: the fully armored Iron Dog stands upright in complete silver-grey nano-armor,
+body facing RIGHT toward the alien — chest forward, eye visors blazing blue-white light
+directed directly at the alien's position, mechanical claws angled toward the alien.
+RIGHT SIDE: the tall semi-transparent alien creature with body turned LEFT to face the Iron Dog —
+taking an involuntary step backward LEFTWARD (away from the Iron Dog but still facing it),
+tentacles partially retracting but still pointed toward the Iron Dog,
+all red compound eyes flickering but oriented directly at the Iron Dog.
+Both characters facing each other directly — the Iron Dog advancing its presence rightward,
+the alien retreating leftward while refusing to break eye contact.
+Dramatic confrontation on the same horizontal axis, blue glow vs purple-green glow, photorealistic, 9:16.
 ```
 
 ---
@@ -523,13 +628,16 @@ Dramatic confrontation composition, blue glow vs purple-green glow, photorealist
 
 ```
 Cinematic mid-shot, post-apocalyptic city street at night.
-The alien creature fires multiple purple-green energy bolts at the Iron Dog simultaneously.
-The bolts slam into the silver-grey armor — each impact erupts in showers of sparks
-and a burst of light, scorching the armor surface.
-The Iron Dog plants one foot firmly back to absorb the impact, slides back slightly,
-but remains completely upright and unshaken.
-The blue energy core pulses brighter and faster in response to the attack.
-Dramatic impact sparks and energy clash, photorealistic, 9:16.
+RIGHT SIDE: the alien creature with body turned fully LEFT toward the Iron Dog —
+multiple tentacles extending leftward, each tip firing purple-green energy bolts
+directly toward the Iron Dog, all bolts traveling LEFT across the frame.
+LEFT SIDE: the Iron Dog with body facing RIGHT toward the alien — chest taking the impacts
+head-on, multiple purple-green bolts slamming into the silver-grey armor simultaneously,
+each impact erupting in showers of sparks directed toward the Iron Dog.
+The Iron Dog slides slightly LEFTWARD from the impact force but holds its rightward stance.
+Clear energy trajectory: bolts travel from RIGHT (alien tentacles) → LEFT (Iron Dog chest).
+The blue energy core pulses brighter in direct response to the incoming attacks.
+Dramatic impact sparks, both characters locked on each other, photorealistic, 9:16.
 ```
 
 ---
@@ -538,14 +646,15 @@ Dramatic impact sparks and energy clash, photorealistic, 9:16.
 
 ```
 Cinematic slow-motion side shot, post-apocalyptic city street at night.
-Left side: the Iron Dog in full silver-grey nano-armor steps forward with a thunderous stride,
-right mechanical steel claw cocked back fully charged, then unleashes a powerful punch
-directly into the center of the alien creature's semi-transparent torso —
-a massive blue shockwave explodes outward from the point of impact.
-Right side: the alien creature's body distorts violently from the punch,
-tentacles flailing, multiple red compound eyes flickering erratically,
-body launching backward through the air.
-Subtitle fades in: 「未完——集三，烈焰對決」
+LEFT SIDE: the Iron Dog in full silver-grey nano-armor stepping RIGHTWARD with thunderous stride,
+body fully turned RIGHT, right mechanical steel claw driving directly RIGHTWARD into the alien —
+eye visors locked onto the alien's torso as the punch lands.
+RIGHT SIDE: the alien creature with body turned LEFT facing the Iron Dog —
+receiving the punch directly in its center torso, body distorting violently RIGHTWARD from the impact,
+tentacles whipping outward from the impact force, all compound eyes still facing LEFT toward the Iron Dog even as the body launches rightward.
+The punch fist and alien torso make direct contact at center frame —
+blue shockwave explodes outward from the contact point in all directions.
+Clear impact axis: Iron Dog fist drives RIGHT → connects → alien body launches RIGHT.
 Dramatic blue explosion shockwave, photorealistic, 9:16.
 ```
 
@@ -749,11 +858,14 @@ Dramatic blue explosion shockwave, photorealistic, 9:16.
 
 ```
 Cinematic front-facing dramatic shot, post-apocalyptic city street at night.
-The Iron Dog in full silver-grey nano-armor stands in a wide power stance,
-both mechanical steel claws raised and clenched at chest level.
-The hexagonal blue energy core on the chest blazes at maximum intensity,
-sending crackling blue energy arcs shooting outward from both fists simultaneously.
-The ground beneath cracks and glows blue from the energy pressure.
+LEFT SIDE: the Iron Dog in full silver-grey nano-armor in wide power stance,
+body turned RIGHT toward the alien — both mechanical steel claws raised and angled rightward,
+blue energy arcs shooting from both fists directed toward the RIGHT where the alien stands.
+Eye visors blazing blue-white light aimed directly rightward at the alien.
+RIGHT SIDE (partially visible or implied): the alien creature facing LEFT toward the Iron Dog,
+tentacles bracing, red compound eyes fixed leftward on the Iron Dog.
+Both characters on the same horizontal axis, mutual attention locked.
+The ground beneath the Iron Dog cracks and glows blue from energy pressure.
 Atmosphere: maximum power charging, imminent attack, photorealistic, 9:16.
 ```
 
@@ -763,11 +875,15 @@ Atmosphere: maximum power charging, imminent attack, photorealistic, 9:16.
 
 ```
 Cinematic wide side-shot, post-apocalyptic city street at night.
-Right side: the tall semi-transparent alien creature with all tentacles fully extended,
-each tip simultaneously firing concentrated purple-green energy bolts —
-a dense barrage of a dozen bolts streaking across the frame toward the left.
-Left side: the Iron Dog raising both arms defensively, blue energy shield flickering.
-Dozens of bolt trails fill the air between the two fighters.
+RIGHT SIDE: the tall semi-transparent alien creature with body fully turned LEFT toward the Iron Dog —
+all tentacles extended and aimed LEFTWARD, each tip firing concentrated purple-green energy bolts
+directly toward the Iron Dog. All bolts travel from RIGHT to LEFT across the frame.
+LEFT SIDE: the Iron Dog with body turned RIGHT toward the alien — raising both arms defensively
+toward the RIGHT, blue energy shield flickering on the right side of the body facing the barrage.
+Eye visors still aimed rightward at the alien through the barrage.
+The bolt trails fill the air between the two fighters, all traveling LEFT from alien to Iron Dog.
+Clear directional attack: RIGHT (alien) → barrage flies LEFT → LEFT (Iron Dog).
+Both characters facing each other — the attack and defense on the same axis.
 Atmosphere: overwhelming barrage, chaotic energy, photorealistic, 9:16.
 ```
 
@@ -777,11 +893,15 @@ Atmosphere: overwhelming barrage, chaotic energy, photorealistic, 9:16.
 
 ```
 Cinematic slow-motion wide shot, post-apocalyptic city street at night.
-The Iron Dog executes a high-speed lateral roll to the right —
-body nearly horizontal in mid-air, armor surface blurring with motion.
-Purple-green energy bolts streak past centimeters from the armor, each missing by a hair.
-Two bolts slam into the crumbling brick wall behind — exploding on impact, blasting chunks outward.
-The Iron Dog's eye visors lock back on the alien during the roll.
+RIGHT SIDE: the alien creature with body turned LEFT, tentacles still aimed LEFTWARD,
+purple-green bolts still traveling LEFT across the frame toward where the Iron Dog was.
+CENTER-LEFT: the Iron Dog rolling RIGHTWARD to dodge — body horizontal in mid-air,
+but eye visors rotating during the roll to maintain lock on the alien (RIGHT direction).
+Even mid-roll, the Iron Dog's face/visors point toward the alien on the RIGHT.
+The purple-green bolts streak LEFTWARD past the Iron Dog's armor by centimeters,
+then slam into the wall on the far LEFT — exploding behind the Iron Dog.
+The dodge direction is RIGHTWARD (toward the alien's side) — an aggressive dodge, not a retreat.
+Both characters' attention directed toward each other throughout the motion.
 Dynamic extreme motion blur, split-second dodge, photorealistic, 9:16.
 ```
 
@@ -791,12 +911,15 @@ Dynamic extreme motion blur, split-second dodge, photorealistic, 9:16.
 
 ```
 Cinematic side-view tracking shot, post-apocalyptic city street at night.
-Left side: the Iron Dog lands from the roll, immediately pivots,
-both mechanical steel claws raised and firing rapid blue energy bolts in quick succession —
-a volley of five bolts streaking toward the alien in a tight spread pattern.
-Right side: the alien creature contorts and twists its semi-transparent body sideways,
-tentacles whipping as it narrowly evades the incoming blue energy volley,
-two bolts grazing the tentacle tips, leaving scorched glowing marks.
+LEFT SIDE: the Iron Dog landing from the roll, body immediately pivoting to face RIGHT toward the alien —
+both mechanical steel claws aimed RIGHTWARD, firing five blue energy bolts
+in a tight spread pattern traveling directly RIGHTWARD toward the alien.
+Eye visors locked RIGHTWARD on the alien target throughout.
+RIGHT SIDE: the alien creature with body turned LEFT toward the Iron Dog —
+contorting sideways to evade the incoming bolts but keeping its body oriented LEFTWARD facing the Iron Dog,
+tentacles whipping LEFTWARD as two bolts graze their tips, scorching them.
+All blue bolt trajectories travel LEFT→RIGHT from Iron Dog claws to alien body.
+Both characters facing each other — attack and evasion on the same horizontal axis.
 Dynamic action exchange, photorealistic, 9:16.
 ```
 
@@ -805,12 +928,16 @@ Dynamic action exchange, photorealistic, 9:16.
 ### 第5秒
 
 ```
-Cinematic wide encircling shot, post-apocalyptic city street at night.
-The alien creature has split its body into a wider stance, tentacles fanning out in all directions —
-four tentacle tips simultaneously firing energy bolts from north, south, east, and west,
-surrounding the Iron Dog in a cross-fire pattern.
-The Iron Dog at the center spins rapidly, blue energy shield flaring in a dome around the armor,
-deflecting two bolts — sparks exploding outward — while crouching to dodge the other two.
+Cinematic wide overhead-angle encircling shot, post-apocalyptic city street at night.
+OUTER RING: the alien creature with tentacles spread in all four directions (N/S/E/W) around the frame,
+each tentacle tip aimed INWARD toward the Iron Dog at the center —
+all purple-green energy bolts firing INWARD toward the center.
+All red compound eyes oriented INWARD toward the Iron Dog — total encirclement, all attention directed inward.
+CENTER: the Iron Dog spinning to face each threat — body rotating but always facing the nearest incoming bolt,
+blue energy shield dome expanding outward to deflect the inward-firing bolts.
+Sparks from deflected bolts radiate outward from the shield surface.
+All attack vectors point INWARD (alien → Iron Dog). All defensive reactions face OUTWARD.
+The Iron Dog is the focal point of total directional convergence.
 Atmosphere: surrounded, multi-directional threat, maximum intensity, photorealistic, 9:16.
 ```
 
@@ -820,11 +947,14 @@ Atmosphere: surrounded, multi-directional threat, maximum intensity, photorealis
 
 ```
 Cinematic low-angle upward shot, post-apocalyptic city street at night.
-The Iron Dog launches straight upward from the encirclement —
-legs pushing off the cracked pavement with explosive force, blue energy trail erupting below.
-Mid-air: the Iron Dog performs a tight forward flip, body tucked,
-three purple-green energy bolts passing directly through the space the armor just vacated.
-The Iron Dog's eye visors track the alien below during the flip.
+BOTTOM FRAME: the alien creature below, body turned UPWARD — all tentacle tips now angled UPWARD
+firing three purple-green bolts UPWARD toward the Iron Dog above. All red eyes looking UPWARD.
+CENTER-TO-TOP: the Iron Dog launching UPWARD, performing a tight forward flip —
+during the flip, eye visors rotate to maintain lock DOWNWARD toward the alien below.
+Even mid-flip, the Iron Dog's face is turned to look DOWN at the alien.
+The three purple-green bolts travel UPWARD through the empty space the Iron Dog just vacated.
+Both characters oriented toward each other on the vertical axis:
+alien looking UP at Iron Dog, Iron Dog looking DOWN at alien.
 Atmosphere: precision evasion, aerial agility, extreme speed, photorealistic, 9:16.
 ```
 
@@ -834,12 +964,15 @@ Atmosphere: precision evasion, aerial agility, extreme speed, photorealistic, 9:
 
 ```
 Cinematic extreme downward angle, post-apocalyptic city street at night.
-The Iron Dog plunges downward from altitude at full speed —
-right mechanical steel claw extended forward, charging with concentrated blue energy that
-forms a glowing drill-shaped vortex at the claw tip.
-Below: the alien creature looking upward, tentacles scrambling to bring energy cannons to bear.
-Multiple rapid blue energy blasts fire from the descending Iron Dog's left claw as it dives —
-bolts striking around the alien, each impact erupting in blue explosions on the pavement.
+TOP: the Iron Dog diving DOWNWARD, body aimed straight DOWN — right claw extended downward
+forming a blue energy drill vortex pointed directly at the alien below.
+Eye visors aimed DOWNWARD, locked on the alien. Left claw firing blue bolts DOWNWARD ahead of the dive.
+BOTTOM: the alien creature with body turned UPWARD toward the Iron Dog —
+tentacles scrambling to aim UPWARD toward the incoming Iron Dog,
+all red compound eyes looking UPWARD directly at the diving Iron Dog.
+The blue bolts from the Iron Dog travel DOWNWARD and strike around the alien's feet.
+Both characters on the same vertical axis — Iron Dog diving DOWN, alien facing UP.
+Clear directional strike: Iron Dog top → diving DOWN → alien bottom, mutual locked attention.
 Atmosphere: relentless aerial assault, unstoppable dive, photorealistic, 9:16.
 ```
 
@@ -849,13 +982,15 @@ Atmosphere: relentless aerial assault, unstoppable dive, photorealistic, 9:16.
 
 ```
 Cinematic mid-shot, post-apocalyptic city street at night.
-The alien creature has taken multiple direct blue energy hits —
-three tentacle tips are severed and blackened, edges still smoldering with blue fire.
-The alien's semi-transparent body flickers and destabilizes, its outline wavering.
-Multiple red compound eyes blink erratically, some flickering dark.
-The alien staggers backward, tentacles clutching its damaged torso,
-but two remaining healthy tentacles still glow with charged purple-green energy,
-refusing to yield.
+RIGHT SIDE: the alien creature staggering RIGHTWARD (backward from impact) —
+but body still turned LEFT toward the Iron Dog, refusing to turn away.
+Three tentacle tips severed and blackened, still smoldering toward the LEFT where the Iron Dog stands.
+All red compound eyes still oriented LEFTWARD, fixing on the Iron Dog despite flickering.
+Two remaining healthy tentacles still aimed LEFTWARD — charged with purple-green energy, still threatening.
+LEFT SIDE (partially visible): the Iron Dog facing RIGHT toward the alien,
+eye visors locked RIGHTWARD on the wounded alien.
+The alien is pushed RIGHTWARD but its gaze, tentacles, and remaining energy
+all still directed LEFTWARD toward the Iron Dog — wounded but completely facing its enemy.
 Atmosphere: wounded but dangerous, desperate resilience, photorealistic, 9:16.
 ```
 
@@ -865,13 +1000,16 @@ Atmosphere: wounded but dangerous, desperate resilience, photorealistic, 9:16.
 
 ```
 Cinematic dramatic wide shot, post-apocalyptic city street at night.
-Left side: the Iron Dog in full silver-grey nano-armor, armor heavily scorched and dented,
-but blue energy core blazing at full power, both mechanical claws firing continuous
-streams of blue energy directly forward — a sustained beam, not individual bolts.
-Right side: the wounded alien creature fires back with its two remaining tentacles —
-concentrated purple-green energy beams meeting the blue beams head-on.
-At the collision point between the two beams, a blinding sphere of mixed blue and purple-green light
-expands and pulses — neither side yielding, energies locked in violent equilibrium.
+LEFT SIDE: the Iron Dog in full silver-grey nano-armor, body turned fully RIGHT toward the alien —
+both mechanical claws aimed RIGHTWARD firing continuous blue energy beams directly at the alien.
+Eye visors locked RIGHTWARD, entire body leaning forward toward the RIGHT.
+RIGHT SIDE: the wounded alien creature with body turned fully LEFT toward the Iron Dog —
+two remaining tentacles aimed LEFTWARD, firing concentrated purple-green beams
+directly LEFTWARD at the Iron Dog. All red compound eyes oriented LEFTWARD, fixed on the Iron Dog.
+CENTER FRAME: the two energy streams collide head-on at the exact midpoint between the two fighters —
+blue beam (from LEFT) meets purple-green beam (from RIGHT), forming a blinding pulsing collision sphere.
+Both characters' energy, gaze, and body fully directed toward each other.
+Perfect mirror confrontation — Iron Dog and alien locked on the same horizontal axis.
 Atmosphere: final standoff, maximum energy clash, epic scale, photorealistic, 9:16.
 ```
 
