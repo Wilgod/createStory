@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(python:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(New-Item -ItemType Directory -Force \"C:\\\\Users\\\\wilso\\\\webpart\\\\Youtube\\\\make-prompt-seedance2\\\\三國\\\\第一章：桃園三結義\")",
+      "Bash(Out-Null)"
     ]
   }
 }
